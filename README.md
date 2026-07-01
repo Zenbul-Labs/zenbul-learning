@@ -34,6 +34,30 @@ The sequence runs from wave physics through to applied audio engineering:
 
 *More topics (RF, embedded systems, DSP, signal integrity) to be added.*
 
+---
+
+### Japanese
+*Conversational fluency for intermediate speakers.*
+
+Designed for someone past the beginner stage — hiragana/katakana solid, basic polite speech functional — who wants to close the gap to natural spoken Japanese. Focused entirely on speaking; kanji reading is not the goal.
+
+The sequence targets the specific gaps intermediate speakers hit:
+
+| # | Topic | What you'll understand |
+|---|-------|----------------------|
+| 01 | [Orientation and Level Set](japanese/lesson_01_orientation.md) | Where you are, phonetics worth reviewing, how practice works |
+| 02 | Plain Form and Casual Speech | How Japanese people actually talk; sentence-final particles |
+| 03 | The て-Form Family | One conjugation, 30+ grammar patterns built on it |
+| 04 | Conditionals | たら/ば/と/なら — four "if"s with distinct nuances |
+| 05 | Expressing Opinions and Emotions | そう、らしい、ようだ、気がする |
+| 06 | Natural Conversation Flow | Discourse markers, fillers, backchanneling |
+| 07 | Reasons and Explanations | から vs. ので vs. のに |
+| 08 | Common Scenarios | Restaurants, shopping, directions, small talk |
+| 09 | Keigo Essentials | Enough formal language for business contexts |
+| 10 | Putting It Together | Extended conversation with full feedback |
+
+**To practice speaking:** open a conversation with the [syllabus](japanese/syllabus.md) or any lesson as context, then say "let's practice." Claude will run the session — responding in Japanese, correcting errors after each exchange, and calibrating difficulty to where you are.
+
 ## How to Use This
 
 Each document is a starting point, not a complete lecture. Read it, then open a conversation with Claude and go wherever the material takes you. The document gives you the frame; the conversation is where the actual learning happens.
